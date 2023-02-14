@@ -1,0 +1,26 @@
+#Charlie {
+   background-color: yellow;
+   border: 10px solid black ;
+   text-align: center;
+}
+#Alastor {
+    background-color: red;
+    border: 10px solid black ;
+    text-align: center;
+}
+#AngelDust {
+    background-color: magenta;
+    border: 10px solid black ;
+    text-align: center;
+}
+#Vaggie {
+    background-color: purple;
+    border: 10px solid black ;
+    text-align: center;
+}
+
+body {background-color: #910000;}
+
+img {
+    border: 5px dotted black;
+}
